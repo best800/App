@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg aria-labelledby="transportIconTitle" color="#2329D6" fill="#fff" height="48px" stroke="#fc036b" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1" viewBox="0 0 24 24" width="48px" xmlns="http://www.w3.org/2000/svg">
+  <title id="transportIconTitle"/>
+  <ellipse style="stroke: rgb(252, 3, 107); fill: rgb(255, 255, 255);" cx="12.046" cy="13.195" rx="11.449" ry="10.805"/>
+  <g style="" transform="matrix(0.732351, 0, 0, 0.959389, 3.020874, 0.67568)">
+    <path d="M 6.322 16.261 L 4.759 16.261 L 4.759 8.713 L 14.92 8.713 L 14.92 16.261 L 9.448 16.261"/>
+    <path d="M 18.828 16.261 L 20.391 16.261 L 20.391 12.906 L 18.828 10.222 L 14.92 10.222 L 14.92 16.261 L 15.701 16.261"/>
+    <circle cx="6" cy="17" r="2" transform="matrix(0.781609, 0, 0, 0.754789, 3.195403, 3.429118)"/>
+    <circle cx="18" cy="17" r="2" transform="matrix(0.781609, 0, 0, 0.754789, 3.195403, 3.429118)"/>
+  </g>
+</svg>
